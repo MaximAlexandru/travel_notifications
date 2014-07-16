@@ -14,7 +14,7 @@
     </author>
 
     <gap:plugin name="com.phonegap.plugins.barcodescanner"/>
-    <gap:plugin name="com.phonegap.plugins.statusBarNotification.StatusBarNotification"/>
+    <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.1.1" />
 
 
     <feature name="http://api.phonegap.com/1.0/device" />
