@@ -17,7 +17,7 @@ function notification_move(position){
            		{
            			//navigator.notification.beep(5);
 
-           			alert(res);
+           			window.plugins.statusBarNotification.notify("TEst notificare", res);
            			
            		}
 
